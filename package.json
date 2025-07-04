@@ -1,0 +1,29 @@
+{
+  "name": "vidtube",
+  "version": "1.0.0",
+  "description": "A youtube like application for video streaming.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [
+    "vidtube",
+    "backend",
+    "express",
+    "mongoDB",
+    "NodeJs"
+  ],
+  "author": "Rashid Khan",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.0.1",
+    "express": "^5.1.0",
+    "mongoose": "^8.16.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10",
+    "prettier": "^3.6.2"
+  }
+}
