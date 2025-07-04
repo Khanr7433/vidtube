@@ -13,7 +13,7 @@ VidTube is a video sharing and streaming platform project.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/VidTube.git
+   git clone https://github.com/Khanr7433/vidtube.git
    ```
 2. Install dependencies:
    ```bash
@@ -21,5 +21,5 @@ VidTube is a video sharing and streaming platform project.
    ```
 3. Start the development server:
    ```bash
-   npm start
+   npm run dev
    ```
